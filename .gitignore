@@ -1,0 +1,4 @@
+*.suo
+OutsourcedBrain/bin/
+OutsourcedBrain/OutsourcedBrain.csproj.user
+packages/
